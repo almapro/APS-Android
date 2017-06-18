@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="activity_admin">Device Administrator</string>
+    <string name="device_admin">Device Administrator</string>
+    <string name="device_admin_description">Device Administrator is required.
+    In case your device gets stolen Device Administrator will do the following:
+        * Lock your device.
+        * Locate your device.
+        * Save your data to cloud then wipe device for privacy insurance (Your data will be back once your Google account is connected).
+    By activating Device Administrator you agree to terms and conditions in privacy section.</string>
+    <string name="app_name">APS</string>
+</resources>
